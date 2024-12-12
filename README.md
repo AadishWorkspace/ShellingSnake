@@ -3,6 +3,9 @@
 
 This project is a simple shell implemented in Python. It supports basic shell commands and can execute external programs.
 
+![image](https://github.com/user-attachments/assets/717897cb-4fa7-4a39-90f8-50cbf3f715a9)
+
+
 ## Features
 
 - **Built-in Commands**:
